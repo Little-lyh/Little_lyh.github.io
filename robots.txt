@@ -7,4 +7,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://little_lyh.github.io/sitemap.xml
+Sitemap: https://github.com/Little-lyh/little-lyh.github.io
