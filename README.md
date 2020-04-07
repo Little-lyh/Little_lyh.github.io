@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Blog
 
-You can use the [editor on GitHub](https://github.com/Little-lyh/Little_lyh.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is an echo blog edit by binbin.Hou
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+You can visit it [here](https://houbb.github.io/).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# TODO
+ 
+后期考虑将此博客抽象成为模板。
 
-```markdown
-Syntax highlighted code block
+# Change Log
 
-# Header 1
-## Header 2
-### Header 3
+| 序号 | 分支 | 简介 | 时间 |
+|:----|:----|:----|:----|
+| 1 | blog_16_10_22 | | |
+| 2 | blog_2016_10_29 | | |
+| 3 | blog_2017_03_11 | | |
+| 4 | blog_20180508 | | |
+| 5 | blog_2018_08_08 | | |
+| 6 | blog_2018_05_30 | 保留原来的学习博客+js+试验demo| 2018-05-30 10:29:08 |
 
-- Bulleted
-- List
+# github 资源图片地址
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Little-lyh/Little_lyh.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://raw.githubusercontent.com/houbb/resource/master/img
