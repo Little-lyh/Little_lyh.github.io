@@ -7,6 +7,10 @@ tags: [data-struct, block-chain, sh]
 published: true
 ---
 
+[TOC]
+
+
+
 ## dynamic programming
 
 动态规划(dynamic programming)是运筹学的一个分支，是求解决策过程(decision process)最优化的数学方法。
@@ -357,10 +361,4 @@ for(int i=n-1;i>=1;i--){
 https://www.jianshu.com/p/40064cb0d5f3
 
 [算法-动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
-
-
-
-
-
-[TOC]
 
