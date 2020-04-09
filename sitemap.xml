@@ -6,7 +6,7 @@ layout: blank
 
   {% for post in site.posts %}
   <url>
-    <loc>https://little_lyh.github.io{{ post.url }}</loc>
+    <loc>https://little-lyh.github.io{{ post.url }}</loc>
     {% if post.lastmod == null %}
     <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
     {% else %}
@@ -19,7 +19,7 @@ layout: blank
   {% for page in site.pages %}
   {% if page.sitemap != null and page.sitemap != empty %}
   <ur>
-    <loc>https://little_lyh.github.io{{ page.url }}</loc>
+    <loc>https://little-lyh.github.io{{ page.url }}</loc>
     <lastmod>{{ page.sitemap.lastmod | date_to_xmlschema }}</lastmod>
     <changefreq>{{ page.sitemap.changefreq }}</changefreq>
     <priority>{{ page.sitemap.priority }}</priority>
