@@ -7,7 +7,7 @@ tags: [data-struct, block-chain, sh]
 published: true
 ---
 
-[TOC]
+
 
 ## dynamic programming
 
@@ -359,4 +359,3 @@ for(int i=n-1;i>=1;i--){
 https://www.jianshu.com/p/40064cb0d5f3
 
 [算法-动态规划 Dynamic Programming--从菜鸟到老鸟](https://blog.csdn.net/u013309870/article/details/75193592)
-
